@@ -2,4 +2,4 @@
 # 
 # Just getting started with a 6502 breadboarding exercise
 #
-# have fun! 
+# https://imgur.com/V6lEV2f
